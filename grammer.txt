@@ -1,0 +1,7 @@
+T -> S$
+S -> dAB
+S -> BaB
+A -> dA
+A -> Ba
+B -> bB
+B -> epsilon

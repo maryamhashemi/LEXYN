@@ -1,0 +1,9 @@
+T -> S$
+S -> AB
+A -> a
+A -> c
+C -> ACDx
+B -> A
+B -> b
+C -> epsilon
+D -> epsilon
